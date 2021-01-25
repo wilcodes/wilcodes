@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
--I am a Venezuelan Junior developer currently living in Houston 🏙
--I am majoring on web development application 🎓
--I have been learning the behaviour of single page applications with React😜
--I have knowledge on HTML, CSS and JS and I know how to work with Git🌐
--I am starting my journey as a developer but I am excited to keep pushing myself learning everyday something new😊
+- I am a Venezuelan Junior developer currently living in Houston 🏙
+- I am majoring on web development application 🎓
+- I have been learning the behaviour of single page applications with React😜
+- I have knowledge on HTML, CSS and JS and I know how to work with Git🌐
+- I am starting my journey as a developer but I am excited to keep pushing myself learning everyday something new😊
 - I am currently Working on a Website for a company called "Wildlife Response Services" using Gatsby.js👀
 <!--
 **wilcodes/wilcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
