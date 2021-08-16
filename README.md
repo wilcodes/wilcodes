@@ -5,7 +5,6 @@
 - I am majoring in Web development application 🎓
 - I have been working on single-page applications with React😜
 - I have knowledge of HTML, CSS, and JS and I know how to work with Git🌐
-- I am starting my journey as a developer but I am excited to keep pushing myself to learn every day something new😊
 - I am currently Working on a Website for a company called "Wildlife Response Services" using Gatsby.js👀
 <!--
 **wilcodes/wilcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
