@@ -6,7 +6,7 @@
 - I have knowledge of HTML, CSS, and JS and I know how to work with Git🌐
 - I have been working on single-page applications with React and Gatsby😜
 - I am in my last year of My Web development AA 🎓
--I am passionate building Web Applications even without a design on hand since I have some design experience with photoshop and The Gestalt Principles.💻
+- I am passionate building Web Applications even without a design on hand since I have some design experience with photoshop and The Gestalt Principles.💻
 <!--
 **wilcodes/wilcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
