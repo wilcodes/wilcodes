@@ -4,9 +4,11 @@
 - I am a Venezuelan developer currently living in Houston 🏙
 - I am majoring in Web development application ⚡
 - I have experience working with HTML, CSS, JS and PHP🌐
-- I have been working on single-page applications with React and Gatsby😜
-- I am in my last year of My Web development AA 🎓
+- I have been working on single-page applications with React😜
+- I am in my semester of My Web development AAS 🎓
 - I am passionate building Web Applications even without a design on hand since I have some design experience with photoshop and The Gestalt Principles💻
+
+
 <!--
 **wilcodes/wilcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
