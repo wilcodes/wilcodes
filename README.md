@@ -1,11 +1,11 @@
 
-[![Header](https://res.cloudinary.com/djf9jqpml/image/upload/v1661488571/Wilfredo_Colina_qrqych.png "Header")](https://some-url.dev/)
+[![Header](https://res.cloudinary.com/djf9jqpml/image/upload/v1669779755/wilcodes/Web_developer_2_atxdcf.png "Header")](https://some-url.dev/)
 
 
 <h1 align="center">Hi 👋, I'm Wilfredo Colina </h1>
 <p> I am a Web developer extremely passionate about solving problems and building applications. I love to face new challenges because they help me to be better in my every day, and professional life. For that reason, I stay motivated toward my aspirations and the completion of my goals. I am currently living in Houston, and majored in Web development Applications. </p>
 
-<p> Even though I am pursued a college degree I consider myself a self-taught developer 🎓 </p>
+<p> Even though I pursued a college degree I consider myself a self-taught developer 🎓 </p>
 <p> In addition to My ASS I have an Engineer education background that allowed me to develop important problem-solving skills ⚡ </p>
 <p> I have developed software using with HTML, CSS, JavaScript, TypeScript, and PHP ⌨️</p>
 <p> Besides the coding aspect of developing a new application I enjoy designing well-looking UI following the Gestalt Principles 💻 </p>
