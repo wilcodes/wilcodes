@@ -1,14 +1,10 @@
 
-[![Header](https://res.cloudinary.com/djf9jqpml/image/upload/v1669779755/wilcodes/Web_developer_2_atxdcf.png "Header")](https://some-url.dev/)
+<h1 align="center">Hi there! 👋 I'm Wilfredo Colina</h1>
 
+<p>Experienced web developer with a proven track record of tackling complex challenges and delivering scalable software solutions. Proficient in JavaScript and React.js, along with a diverse array of web technologies. Skilled at transforming concepts into robust single-page applications, with a focus on efficiency, versatility, and accuracy. With over a year of hands-on experience, I am committed to crafting exceptional software architecture for real-world projects.</p>
 
-<h1 align="center">Hi 👋, I'm Wilfredo Colina </h1>
-<p> I am a Web developer extremely passionate about solving problems and building applications. I love to face new challenges because they help me to be better in my every day, and professional life. For that reason, I stay motivated toward my aspirations and the completion of my goals. I am currently living in Houston, and majored in Web development Applications. </p>
+<p>Let's collaborate and build something amazing! Feel free to reach out for project inquiries or to connect.</p>
 
-<p> Even though I pursued a college degree I consider myself a self-taught developer 🎓 </p>
-<p> In addition to My ASS I have an Engineer education background that allowed me to develop important problem-solving skills ⚡ </p>
-<p> I have developed software using with HTML, CSS, JavaScript, TypeScript, and PHP ⌨️</p>
-<p> Besides the coding aspect of developing a new application I enjoy designing well-looking UI following the Gestalt Principles 💻 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
